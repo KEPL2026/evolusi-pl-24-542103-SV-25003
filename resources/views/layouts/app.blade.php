@@ -9,7 +9,7 @@
 <body>
     <div class="container">
         <header class="site-header">
-            <h1><a href="{{ route('posts.index') }}">📔 Jurnalku</a></h1>
+            <h1><a href="{{ route('posts.index') }}"> Dear Journal</a></h1>
             <a href="{{ route('posts.create') }}" class="btn">+ Catatan Baru</a>
         </header>
 

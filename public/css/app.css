@@ -1,10 +1,10 @@
 :root {
-    --bg: #fdfaf6;
-    --ink: #2f2a26;
-    --accent: #b5651d;
-    --card: #ffffff;
-    --muted: #8a7f75;
-    --border: #eadfd2;
+    --bg: #f5f6f8;      /* abu-abu sangat muda buat background halaman */
+    --ink: #2b2f33;     /* teks utama, abu gelap hampir hitam */
+    --accent: #2563eb;  /* aksen biru — tombol, link, badge mood */
+    --card: #ffffff;    /* putih buat card/entry */
+    --muted: #6b7280;   /* abu buat teks sekunder (tanggal, meta) */
+    --border: #e2e8f0;  /* abu muda buat garis pembatas */
 }
 
 * { box-sizing: border-box; }
